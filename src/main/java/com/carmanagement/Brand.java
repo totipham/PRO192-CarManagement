@@ -1,4 +1,8 @@
-package com.carmanagement;
+/**
+ * @author DucPTM
+ */
+
+ package com.carmanagement;
 
 public class Brand {
     private String brandID, brandName, soundBrand;
